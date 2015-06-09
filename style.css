@@ -1,0 +1,22 @@
+.menu{
+    width: 300px;
+    height: 300px;
+    margin: 100px auto;
+    position: relative;
+}
+.menu li{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #555;
+    list-style: none;
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    
+}
+.menu li a{
+    color: #fff;
+    text-decoration: none;
+    position: absolute;
+}
